@@ -13,5 +13,5 @@
 <p align="center">
 <a href="mailto:egemenkaraman7161@gmail.com"><img src="https://img.shields.io/badge/-egemenkaraman7161@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/egemen.karaman"><img src="https://img.shields.io/badge/-egemen.karaman-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://linkedin.com/in/egemen-karaman"><img src="https://img.shields.io/badge/-EgemenKaraman-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://tr.linkedin.com/in/egemen-karaman-26047b317?trk=people-guest_people_search-card"><img src="https://img.shields.io/badge/-EgemenKaraman-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 </p>
