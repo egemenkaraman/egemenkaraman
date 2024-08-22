@@ -1,8 +1,8 @@
 <p align="center"><img  width="100px" src="https://github.com/yusufekrembm/yusufekrembm/assets/88238748/858bd1be-18ba-489a-ac56-385e7b74132e"></p>
 
-<h1 align="center">Hi , I am Yusuf Ekrem </h1>
+<h1 align="center">Hi , I am Egemen Karaman </h1>
 
-<p align="center" width="250px"> Android Developer </p>
+<p align="center" width="250px"></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egemenkaraman&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=egemenkaraman&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
